@@ -1,0 +1,29 @@
+
+.main {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.title {
+  color: brown;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.name {
+  color: blue;
+}
+
+.school {
+  color: crimson;
+}
+
+.total {
+  color: darkred;
+}
+
+.score {
+  color: green;
+}
