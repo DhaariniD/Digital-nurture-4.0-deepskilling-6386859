@@ -1,0 +1,36 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 40px;
+  background-color: white;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  border-left: 4px solid green;
+  border-right: 4px solid green;
+  padding: 20px;
+  gap: 40px;
+}
+
+.section {
+  flex: 1;
+  padding: 0 20px;
+}
+
+.section h2 {
+  margin-bottom: 20px;
+  border-bottom: 2px solid green;
+  padding-bottom: 5px;
+}
+
+.section strong {
+  display: block;
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+.section p {
+  margin: 2px 0 10px;
+}
